@@ -1,6 +1,6 @@
 {
   "homapage":"https://Mesterumit.github.io/Horoscope_App/",
-  "name": "horoscope-class",
+  "name": "Horoscope_App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
